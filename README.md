@@ -8,3 +8,4 @@ Chọn trong danh sách
 Gõ Lệnh
 VBoxManage modifyvm "Promox" --nested-hw-virt on
 Trong đó "Promox" thay bằng tên máy ảo của bạn
+Hosname (FQDN): Prxmx-ve.local
